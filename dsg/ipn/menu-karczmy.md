@@ -1,6 +1,6 @@
 # Menu Karczmy
 
-Po wejściu w opcję **Menu Karczmy** zobaczymy trzy sekcje:
+Po wejściu w opcję **Zarządzanie karczmą** zobaczymy trzy sekcje:
 
 1. Formularz dodawania potraw
 2. Listę potraw będących w menu
