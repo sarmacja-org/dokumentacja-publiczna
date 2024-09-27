@@ -1,2 +1,3 @@
-# dokumentacja-publiczna
-Dokumentacja DSG dostępna publicznie.
+# Dokumentacja
+
+Publiczne dokumenty [Księstwa Sarmacji](https://www.sarmacja.org)
