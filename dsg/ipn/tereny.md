@@ -19,3 +19,4 @@ Tworząc nowy teren nie mamy możliwości zdefiniowania jego szczegółów. Dopi
 Po przejściu w edycję terenu możemy ustawić wszystkie najważniejsze informacje - w tym wgrać zdjęcie.
 **Maksymalny rozmiar zdjęcia w pionie i w poziomie to 600px.** Na chwilę obecną zdjęcie nie zostanie przeskalowane automatycznie a próba wgrania zbyt dużego skończy się błędem.
 
+![edycja terenu](img/tereny-4.jpg)
