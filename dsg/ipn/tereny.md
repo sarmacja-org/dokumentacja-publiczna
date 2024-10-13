@@ -20,3 +20,10 @@ Po przejściu w edycję terenu możemy ustawić wszystkie najważniejsze informa
 **Maksymalny rozmiar zdjęcia w pionie i w poziomie to 600px.** Na chwilę obecną zdjęcie nie zostanie przeskalowane automatycznie a próba wgrania zbyt dużego skończy się błędem.
 
 ![edycja terenu](img/tereny-4.jpg)
+
+Dla bardziej opisowych terenów mamy również dwa pola przyjmujące **bbcode** - "długi opis" oraz "odnośniki".
+W przypadku odnośników oczywiście zalecane jest użycie znaczników **url**
+
+```
+[url=][/url]
+```
